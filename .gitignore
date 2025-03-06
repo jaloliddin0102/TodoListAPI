@@ -1,0 +1,25 @@
+# Visual Studio
+.vscode/
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+*.exe
+*.dll
+*.log
+bin/
+obj/
+publish/
+TestResults/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+.DS_Store
+
+# Sensitive files
+appsettings.json
+appsettings.*.json
+secrets.json
+.env
